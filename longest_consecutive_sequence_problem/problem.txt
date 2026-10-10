@@ -1,0 +1,2 @@
+Longest Consecutive Sequence Problem
+Problem: Given an unsorted array of integers nums, find the length of the longest consecutive elements sequence. You must write an algorithm that runs in O(n) time.
